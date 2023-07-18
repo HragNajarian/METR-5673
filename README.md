@@ -5,13 +5,13 @@ RadarCode.m and RainGaugeCode.m are Matlab scripts used to read and QC KHGX rada
 
 RainGaugeCode.m can be run once you have downloaded the .xlsx files that hold the rain gauge data.
 
-RadarCode.m cannot be run since the Z and ZDR files are not included (too large). I reccommend downloading all the gridded .nc files from 25-29 August 2017 at the lowest elevation angle for both Z and ZDR from KHGX if you are interested in running that script.
+RadarCode.m cannot be run since the Z and ZDR files are not included (too large). I reccommend downloading all the gridded .nc files from 25-29 August 2017 at the lowest elevation angle for both Z and ZDR from KHGX if you are interested in running that script, or contact me for the .mat file.
 
 
 It is NOT needed to run the RainGaugeCode.m and RadarCode.m since I have provided the .mat files from each script after it runs.
 
 
-Once you load RainGaugeData.mat and Z&ZDRData.mat, you are able to run QauntifyingPrecipCode.m. There are lots of comments so please go through them to understand it all. It takes a few minutes to run the full script < 3 min, so please be patient :)
+Once you load RainGaugeData.mat and Z&ZDRData.mat (contact me for this file), you are able to run QauntifyingPrecipCode.m. There are lots of comments so please go through them to understand it all. It takes a few minutes to run the full script (< 3 min), so please be patient.
 
 
 If you have any questions, please message me.
